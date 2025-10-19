@@ -1,0 +1,3 @@
+Planning	Lên kế hoạch dự án, xác định phạm vi & nguồn lực	
+Requirement Analysis	Xác định chức năng & tác nhân hệ thống	
+System Design	Thiết kế kiến trúc, CSDL, luồng xử lý

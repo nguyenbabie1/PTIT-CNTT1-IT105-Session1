@@ -1,0 +1,6 @@
+Thành phần	Vai trò chính
+Con người	Sử dụng & vận hành hệ thống
+Dữ liệu	Cung cấp thông tin cho mọi hoạt động
+Quy trình	Cách thức xử lý và luân chuyển công việc
+Phần mềm	Ứng dụng & chương trình hỗ trợ tự động hóa
+Phần cứng	Hạ tầng kỹ thuật đảm bảo hệ thống chạy được

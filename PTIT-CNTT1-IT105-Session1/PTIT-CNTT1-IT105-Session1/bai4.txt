@@ -1,0 +1,6 @@
+1. Planning – Lên kế hoạch
+2. Analysis – Phân tích yêu cầu
+3. Design – Thiết kế
+4. Implementation – Lập trình
+5. Testing – Kiểm thử
+6. Deployment & Maintenance – Triển khai & Bảo trì

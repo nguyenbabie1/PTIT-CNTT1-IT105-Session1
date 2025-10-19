@@ -1,0 +1,24 @@
+Tác nhân (Actor)	Chức năng (Use Case)
+🧑‍🎓 Học viên	- Đăng ký tài khoản và khóa học
+- Xem nội dung bài học
+- Làm bài kiểm tra
+- Xem điểm, tiến độ học tập
+👩‍🏫 Giảng viên	- Tạo và quản lý khóa học, bài học
+- Quản lý điểm số học viên
+- Theo dõi tiến độ học viên
+👨‍💼 Admin (Quản trị hệ thống)	- Quản lý người dùng (học viên, giảng viên)
+- Phân quyền sử dụng hệ thống
+- Theo dõi thống kê, báo cáo tổng hợp
+💾 Hệ thống thanh toán (nếu có)	- Xử lý giao dịch thanh toán học phí onlin
+2
+Xử lý đăng ký khóa học, điểm danh, lưu điểm, cập nhật hồ sơ học viên	-TPS -	Ghi nhận và xử lý các giao dịch hàng ngày 
+Tổng hợp báo cáo, thống kê học viên – giảng viên – doanh thu	-MIS -	Cung cấp báo cáo tổng hợp giúp quản lý theo dõi hoạt động của trung tâm.
+Phân tích xu hướng học tập, hiệu quả giảng viên, đề xuất cải thiện chương trình	-DSS -	Hỗ trợ ban giám đốc ra quyết định về chính sách học tập và phát triển khóa học.
+3
+Agile:Agile cho phép phát triển theo từng sprint nhỏ, liên tục cập nhật và phản hồi từ người dùng thật.
+và có thể phát triễn thêm nhiều tính năng hơn 
+4.
+
+️ Use Case Diagram	Mô tả các chức năng mà học viên, giảng viên, admin có thể thực hiện.
+ Class Diagram	Biểu diễn các lớp như HocVien, KhoaHoc, BaiHoc, GiangVien, DiemSo và mối quan hệ giữa chúng.
+ Sequence Diagram	Thể hiện thứ tự tương tác giữa học viên – hệ thống – giảng viên 

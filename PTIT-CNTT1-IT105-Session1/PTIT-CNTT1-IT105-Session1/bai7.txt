@@ -1,0 +1,7 @@
+
+1. Planning -	Xác định phạm vi, mục tiêu, nguồn lực	
+2. Requirement Analysis	Thu thập và phân tích yêu cầu	
+3. System Design	Thiết kế hệ thống và CSDL	
+4. Implementation	Viết mã nguồn và tích hợp hệ thống	
+5. Testing	Kiểm thử đảm bảo chất lượng	Báo cáo kiểm thử
+6. Deployment & Maintenance	Đưa vào sử dụng và bảo trì	

@@ -1,0 +1,6 @@
+Giao dịch bán hàng	TPS
+TPS dùng để xử lý và lưu trữ các giao dịch hàng ngày một cách chính xác và nhanh chóng. Dữ liệu này là cơ sở cho các hệ thống khác.
+Phân tích xu hướng kinh doanh	DSS
+DSS hỗ trợ phân tích dữ liệu, mô phỏng, dự báo, giúp nhà quản lý đưa ra quyết định chiến lược hoặc bán chiến lược.
+Bảng tổng quan hiệu suất hàng tháng dành cho CEO	EIS
+EIS cung cấp thông tin tổng hợp, ở cấp cao nhất, thường lấy dữ liệu từ DSS để hiển thị dạng dễ hiểu.

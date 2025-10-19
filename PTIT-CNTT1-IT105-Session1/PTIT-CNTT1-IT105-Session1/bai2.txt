@@ -1,0 +1,3 @@
+A-Waterfall- do yêu cầu quá rõ ràng ít thay đổi phù hợp với mô hình tuần tự
+B-Agile-do mobile cần cải tiến do nhận phản hồi từ người dùng nên cần chia nhỏ,nên agile giúp triên theo sprint ngắn
+C-Spiral-Vì đây là dự án lớn, rủi ro cao, cần phân tích rủi ro trong từng giai đoạn, nên mô hình Spiral là phù hợp nhất
